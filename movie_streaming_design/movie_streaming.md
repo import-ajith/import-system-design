@@ -18,7 +18,7 @@ Requiremnets
 
 Comments
 
- • Create two apache kafka topic
+ • Create two kafka topic
        
         • video_position
         • recommendations
