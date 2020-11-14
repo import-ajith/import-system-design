@@ -12,4 +12,4 @@ Requiremnets
  
  
  
- ![Test Image 1](movie_streaming.png.png)
+![alt text](https://github.com/import-ajith/import-system-design/blob/master/movie_streaming_design/movie_streaming.png)
