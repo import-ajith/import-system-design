@@ -13,3 +13,25 @@ Requiremnets
  
  
 ![alt text](https://github.com/import-ajith/import-system-design/blob/master/movie_streaming_design/movie_streaming.png)
+
+
+
+Comments
+
+ • Create two apache kafka topic
+       
+        • video_position
+        • recommendations
+        
+ •  video_position 
+     
+      • This topic can have multiple producers
+      • should be highly distributed and high volume
+      • topic key is "user_id"
+    
+ •  recommendations
+ 
+     • source data from analytical store for historical training
+     • May be low volume topic
+     • I would choose "user_id" as key
+    
