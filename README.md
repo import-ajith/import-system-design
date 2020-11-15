@@ -1,5 +1,5 @@
 # import-system-design
-This repo contains system design . I have learned so far and my experience .
+This repo contains system design material that i learned so far and my experience .
 
 # Author
 
