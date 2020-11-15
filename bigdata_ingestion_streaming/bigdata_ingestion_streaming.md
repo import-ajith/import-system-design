@@ -3,7 +3,7 @@
 
 
   
- ![alt text](https://github.com/import-ajith/import-system-design/blob/master/movie_streaming_design/bigdata_ingestion_streaming.png)
+ ![alt text](https://github.com/import-ajith/import-system-design/blob/master/bigdata_ingestion_streaming/bigdata_ingestion_streaming.png)
 
 
 
