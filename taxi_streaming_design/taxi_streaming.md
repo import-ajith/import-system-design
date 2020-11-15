@@ -9,7 +9,7 @@
  •	All the position data before and during ride should be stored in analytical storage so that cost can be computed accurately.
  
  
-![alt text](https://github.com/import-ajith/import-system-design/blob/master/movie_streaming_design/taxi-streaming-design.png)
+ ![alt text](https://github.com/import-ajith/import-system-design/blob/master/taxi_streaming_design/taxi-streaming-design.png)
 
 
 
