@@ -12,7 +12,7 @@
 
  
  
-![alt text](https://github.com/import-ajith/import-system-design/blob/master/movie_streaming_design/socialmedia-streaming-design.png)
+![alt text](https://github.com/import-ajith/import-system-design/blob/master/socialmedia_streaming_design/socialmedia-streaming-design.png)
 
 
 
