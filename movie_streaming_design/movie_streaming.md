@@ -1,6 +1,6 @@
 # Movie Streaming System Design
 
-Requiremnets
+ Requirements
 
  •	Make sure the user can resume the video where they left it off
 
